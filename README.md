@@ -117,3 +117,6 @@ rezultate_antrenari.xlsx
 | MobileNet | RAF-DB | GPU | 71.25% | 29.45 min | 3.493.063 | 2.30 ms |
 | EfficientNet | FER-2013 augmented | GPU | 79.54% | 52.08 min | 4.058.541 | 4.76 ms |
 | EfficientNet | CK+ | GPU | 60.14% | 3.83 min | 4.058.541 | 33.42 ms |
+
+<img width="883" height="467" alt="Screenshot 2026-11-24 230917" src="https://github.com/user-attachments/assets/40c07abc-17f4-48d6-a9ba-e022b9479f91" />
+
